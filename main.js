@@ -10,7 +10,7 @@ h2.style.color = "red";
 document.body.appendChild(h2);
 
 let p1 = document.createElement("p");
-p1.innerText = "In this task you have to reproduce this HTML page as is using only JavaScript. The task will be evaluated on the basis of the following DOM manipulation techniques:";
+p1.innerText = "In this task you have to reproduce this HTML page as is using <b>only</b> JavaScript. The task will be evaluated on the basis of the following DOM manipulation techniques:";
 document.body.appendChild(p1);
 
 let ul1 = document.createElement("ul");
